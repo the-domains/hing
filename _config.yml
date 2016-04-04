@@ -1,0 +1,28 @@
+name: Hing Johor Real Estate
+favicon: null
+layout_spectrum: 0.24997866177000105
+typography_spectrum: 0.13029153854586184
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.00891052559018135
+  lightness: 0.4284555825870484
+  saturation: 0.9836816482711583
+  rhythmicContrast: 0.7437792150303721
+purpose: []
