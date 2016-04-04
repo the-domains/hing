@@ -1,7 +1,7 @@
-name: Hing Johor Real Estate
+name: "Hing's Johor Real Estate"
 favicon: null
-layout_spectrum: 0.24997866177000105
-typography_spectrum: 0.13029153854586184
+layout_spectrum: 0.25337
+typography_spectrum: 0.64643
 title: The Tech-savvy real estate agent in Johor
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.00891052559018135
-  lightness: 0.4284555825870484
+    - '#ffffff'
+    - '#cbc2bd'
+    - '#0b0b0d'
+    - '#6a7086'
+    - '#669f9a'
+  brandStrength: 0.5
+  lightness: 0.4375
   saturation: 0.9836816482711583
-  rhythmicContrast: 0.7437792150303721
+  rhythmicContrast: 0.75
 purpose: []
